@@ -1,6 +1,6 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@ucsd.edu
+Your Name, bghoang@ucsd.edu
 
 (Your teammate's contact info, if appropriate)
 
