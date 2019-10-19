@@ -2,8 +2,6 @@
 
 Your Name, bghoang@ucsd.edu
 
-(Your teammate's contact info, if appropriate)
-
 ## Abstract
 
 I am a fan of sitcom so my idea would be generate a new script based on the script for How I Met Your Mother, a sitcom that I am a huge fan of. I will be using RNN for training module. The training data, as I mentioned, will be the script How I Met Your Mother. 
