@@ -34,9 +34,9 @@ Package for software:
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-  - [This is a paper](this_is_the_link.pdf)
+References to any papers, techniques, repositories I used:
 - Repositories: 
-  - [https://github.com/ucsd-ml-arts]
-- Blog posts
+  - [ECE 188 repo](https://github.com/ucsd-ml-arts)
+- Tutorial:
+  - [tutorial](https://www.tensorflow.org/tutorials/text/text_generation)  
+  
